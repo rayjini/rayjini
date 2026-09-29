@@ -1,7 +1,9 @@
 <h2>Hi 👋, I'm Rayan Ourdjini</h2>
 
 **Computer Science (Cybersecurity Stream) @ Carleton University** · B.Sc., Dec 2027
+
 🔍 **Looking for Winter 2027 and Summer 2027 internships!**
+
 - ⚙️ I automate infrastructure and harden systems: DevOps, CI/CD, and security
 - 🤖 I work AI-first with Claude Code and Cursor
 - 🏆 Won prize money at the BSides Ottawa CTF hackathon (2024)
