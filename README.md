@@ -4,24 +4,24 @@
 
 🔍 **Looking for Winter 2027 and Summer 2027 internships!**
 
-- ⚙️ I automate infrastructure and harden systems: DevOps, CI/CD, and security
-- 🤖 I work AI-first with Claude Code and Cursor
+-  I automate infrastructure and harden systems: DevOps, CI/CD, and security
+-  I work AI-first with Claude Code and Cursor
 - 🏆 Won prize money at the BSides Ottawa CTF hackathon (2024)
-- 📫 Reach me at [rayandz25@gmail.com](mailto:rayandz25@gmail.com)
+-  Reach me at [rayandz25@gmail.com](mailto:rayandz25@gmail.com)
 
-### 💼 Experience
+###  Experience
 - **Shared Services Canada**: Software Developer Intern, DevOps & Infrastructure (Jan – Aug 2026)
 - **National Defence**: Cybersecurity Specialist Intern (Sep 2024 – Apr 2025)
 - **Canada Revenue Agency**: Software Developer Intern, Network Security (Feb – Apr 2024)
 
-### 🚀 Projects
+###  Projects
 - **[Insulin Pump Simulator](https://github.com/rayjini)**: real-time simulation of the Tandem t:slim X2 pump with dosing, alerts, and interrupt-based control. `C++ · Qt`
 - **[FIFA World Cup Winners & Scorers](https://github.com/rayjini)**: normalized database and analytics tool for World Cup stats. `Python · SQLite`
 - **[Curling Game](https://github.com/rayjini/Curling-Game)**: browser curling game with physics-based stone collisions and a Node.js server. `JavaScript · Node.js · HTML Canvas`
 - **[iTunes API App](https://github.com/rayjini/ITunes-API-App)**: web app that searches and displays music from the iTunes API. `JavaScript · Node.js`
 - **[Ghost Hunting Game](https://github.com/rayjini/Ghost-Hunting-Game)**: ghost hunting simulation game.
 
-### 📜 Certifications
+###  Certifications
 - **SANS SEC566**: Implementing and Auditing Security Frameworks and Controls (2025)
 - **ITSG-33**: IT Security Risk Management: A Lifecycle Approach
 
