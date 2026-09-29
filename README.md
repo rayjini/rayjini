@@ -1,6 +1,6 @@
 <h2>Hi 👋, I'm Rayan Ourdjini</h2>
 
-**Computer Science (Cybersecurity Stream) @ Carleton University** · B.Sc., Aug 2027
+**Computer Science (Cybersecurity Stream) @ Carleton University** · B.Sc., Dec 2027
 
 - ⚙️ I automate infrastructure and harden systems: DevOps, CI/CD, and security
 - 🤖 I work AI-first with Claude Code and Cursor
