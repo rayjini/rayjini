@@ -11,7 +11,7 @@
 
 ###  Experience
 - **Shared Services Canada**: Software Developer Intern, DevOps & Infrastructure (Jan – Aug 2026)
-- **National Defence**: Cybersecurity Specialist Intern (Sep 2024 – Apr 2025)
+- **National Defence Canada**: Cybersecurity Specialist Intern (Sep 2024 – Apr 2025)
 - **Canada Revenue Agency**: Software Developer Intern, Network Security (Feb – Apr 2024)
 
 ###  Projects
