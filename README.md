@@ -38,4 +38,4 @@
 - **Tools & OS:** Git, GitLab, Jira, VS Code, Wireshark, Linux (Ubuntu, Kali)
 
 ### 🌐 Connect
-💼 [LinkedIn](https://linkedin.com/in/rayan-ourdjini) · 🐙 [GitHub](https://github.com/rayjini) · 𝕏 @RayanJini · ✉️ [rayandz25@gmail.com](mailto:rayandz25@gmail.com)
+💼 [LinkedIn](https://linkedin.com/in/rayan-ourdjini) · 🐙 [GitHub](https://github.com/rayjini) · 𝕏 [@RayanJini](https://x.com/RayanJini) · ✉️ [rayandz25@gmail.com](mailto:rayandz25@gmail.com)
