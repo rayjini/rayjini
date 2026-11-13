@@ -6,7 +6,7 @@
 
 - ⚙️ I automate infrastructure and harden systems: DevOps, CI/CD, and security
 - 🤖 I work AI-first with Claude Code and Cursor
-- 🏆 Won prize money at the BSides Ottawa CTF hackathon (2024)
+- 🏆 Won prize money at the BSides Ottawa CTF hackathon
 - 🌐 Experience and projects at [rayanourdjini.ca](https://rayanourdjini.ca)
 - 📫 Reach me at [rayandz25@gmail.com](mailto:rayandz25@gmail.com)
 
