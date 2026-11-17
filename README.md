@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Rayan Ourdjini</h2>
+<h2>Hi, I'm Rayan Ourdjini</h2>
 
 **Computer Science @ Carleton University** · B.Sc., Dec 2027
 
@@ -10,7 +10,7 @@
 -  Reach me at [rayandz25@gmail.com](mailto:rayandz25@gmail.com)
 
 ### Experience
-- 🔜 **Incoming** @ Kinaxis · Winter 2027
+- **Incoming** @ Kinaxis · Winter 2027
 - **Software Developer Intern** @ Shared Services Canada · Jan 2026 – Aug 2026
 - **Cybersecurity Specialist Intern** @ National Defence (DND) · Sep 2024 – Apr 2025
 - **Software Developer Intern** @ Canada Revenue Agency · Feb 2024 – Apr 2024
@@ -20,12 +20,6 @@
 
 **[Detection Engineering Lab](https://github.com/rayjini/detection-engineering-lab)**: home detection lab with Sigma rules mapped to MITRE ATT&CK, tested against Atomic Red Team attacks through a detection-as-code CI pipeline
 
-### Skills
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,py,js,ts,html,css,react,angular,nodejs,qt,sklearn&perline=13" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,aws,gitlab,git,postgres,mysql,sqlite,linux,ubuntu,kali,vscode&perline=13" />
-</p>
 
 ### Connect
 🌐 [Website](https://rayanourdjini.ca) · 💼 [LinkedIn](https://linkedin.com/in/rayan-ourdjini) · 𝕏 [@RayanJini](https://x.com/RayanJini)
