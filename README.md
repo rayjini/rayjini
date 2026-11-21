@@ -1,18 +1,9 @@
 <h2>Hi, I'm Rayan Ourdjini</h2>
 
-![Profile views](https://komarev.com/ghpvc/?username=rayjini&label=Profile+views&color=0e75b6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayan-ourdjini)
-![Incoming](https://img.shields.io/badge/Incoming-Kinaxis_Winter_%2727-0e75b6)
+![Incoming](https://img.shields.io/badge/Incoming-Kinaxis_Winter_%2727-db1d2f)
 ![Location](https://img.shields.io/badge/Location-Ottawa%2C_ON-555)
 
 **Computer Science @ Carleton University** · B.Sc., Dec 2027
-
-
--  I automate infrastructure and harden systems: SWE, DevOps, CI/CD, and Security
--  I work AI-first with Claude Code and Cursor
--  Won prize money at the BSides Ottawa CTF hackathon
--  Experience and projects at [rayanourdjini.ca](https://rayanourdjini.ca)
--  Reach me at [rayandz25@gmail.com](mailto:rayandz25@gmail.com)
 
 ### Experience
 - **Incoming** @ Kinaxis · Winter 2027
