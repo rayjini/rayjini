@@ -1,6 +1,6 @@
 <h2>Hi, I'm Rayan Ourdjini</h2>
 
-![Incoming](https://img.shields.io/badge/Incoming-Kinaxis_Winter_%2727-db1d2f)
+![Incoming](https://img.shields.io/badge/Kinaxis_Winter_%2727-db1d2f)
 ![Location](https://img.shields.io/badge/Ottawa%2C_ON-555)
 
 **Computer Science @ Carleton University** · B.Sc., Dec 2027
